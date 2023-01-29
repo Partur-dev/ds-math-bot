@@ -1,0 +1,18 @@
+{
+  "name": "math_bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "mathjs": "^11.5.0"
+  }
+}
